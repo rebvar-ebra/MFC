@@ -1,0 +1,20 @@
+﻿  MFCApplication1View.cpp
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(161): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(164): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(167): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(170): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(186): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(189): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(195): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(198): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\razgarebrahimy\documents\visual studio 2015\projects\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(246): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MFCApplication1.vcxproj -> C:\Users\RazgarEbrahimy\Documents\Visual Studio 2015\Projects\MFCApplication1\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> C:\Users\RazgarEbrahimy\Documents\Visual Studio 2015\Projects\MFCApplication1\Debug\MFCApplication1.pdb (Partial PDB)
